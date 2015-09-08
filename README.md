@@ -1,1 +1,4 @@
 # webapp
+
+def as():
+	pass
